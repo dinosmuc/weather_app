@@ -1,0 +1,28 @@
+.main{
+    margin-top: 50px !important;
+    padding-top: 30px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(228, 227, 227);
+}
+.sub{
+    margin: auto;
+    margin-top: 100px;
+}
+.btn{
+    margin-top: 100px;
+}
+.form-card{
+    margin-top: 50px !important;
+    padding-top: 30px;
+    margin: auto;
+    text-align: center;
+    
+}
+.mb-3{
+    margin: auto;
+    width: 400px;
+}
+.btn-primary{
+    margin-top: 50px;
+}
